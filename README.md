@@ -1,1 +1,1 @@
-# Mnist_data_set
+# Digit_Detection
